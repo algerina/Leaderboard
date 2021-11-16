@@ -1,9 +1,11 @@
 body {
     background-color: azure;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .wrapper {
     display: flex;
+    justify-content: center;
 }
 
 #scoreSection {
@@ -30,5 +32,9 @@ body {
  .refresh {
      height: 1.5rem;
      margin: 1.5rem;
+ }
+
+ h1 {
+     text-align: center;
  }
 

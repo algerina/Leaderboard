@@ -4,16 +4,15 @@
 
 > This is a Leaderboard list app, setup using webpack and ES6 modules.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screen.JPG)
 
-Additional description about the project and its features.
 
 ## Built With
 
 - JavaScript
 - HTML
 - CSS
-- Technologies used
+- Webpack
 
 ## Live Demo
 
@@ -29,19 +28,20 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+Web browser (Google Chrome, Firefox, Safari)
 
 ### Setup
-
-### Install
+Git clone https://github.com/algerina/Leaderboard.git
 
 ### Usage
+Run the commands `npm install` followed by `npm run start`
 
 ### Run tests
-
-### Deployment
-
-
-
+cd into the cloned folder and run 
+```bash
+npm install
+npm run linters
+```
 ## Authors
 
 👤 **Amel Khiri**
