@@ -1,0 +1,40 @@
+body {
+  background-color: azure;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+#scoreSection {
+  margin: 1rem;
+}
+
+#addScore {
+  margin: 1rem;
+}
+
+.recentScores {
+  display: flex;
+  flex-direction: row;
+}
+
+h2 {
+  margin: 1rem;
+}
+
+#scoresTable {
+  border: solid black 1px;
+  list-style: none;
+}
+
+.refresh {
+  height: 1.5rem;
+  margin: 1.5rem;
+}
+
+h1 {
+  text-align: center;
+}

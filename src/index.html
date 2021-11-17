@@ -7,8 +7,28 @@
     <title>Leaderboard</title>
 </head>
 <body>
-    <h1>My leaderboard</h1>
-    <section>
+    <h1 class="title">My leaderboard</h1>
+    <section class="wrapper">
+    <section id="scoreSection">
+        <div class="recentScores">
+        <h2>Recent scores</h2>
+        <button type="submit" class="refresh">Refresher</button>
+        </div>
+        <ul id="scoresTable">
+        </ul>
+    </section>
+    <section id="addScore">
+        <div>
+        <h2>Add your score</h2>
+        </div>
+        <div>
+        <input type="text" name="name" id="name" placeholder="name"><br>
+        <br>
+        <input type="text" name="score" id="score" placeholder="score"><br>
+        <br>
+        <button type="submit">Submit</button>
+        </div>
+    </section>
     </section>
 </body>
 </html>
