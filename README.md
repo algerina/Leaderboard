@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://algerina.github.io/Leaderboard/dist/)
 
 
 ## Getting Started

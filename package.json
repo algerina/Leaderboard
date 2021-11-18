@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/algerina/Leaderboard#readme",
   "devDependencies": {
+    "@productboard/webpack-deploy": "github:productboard/webpack-deploy",
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.5.1",
     "eslint": "^7.32.0",
@@ -34,7 +35,8 @@
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0",
     "webpack": "^5.64.1",
-    "webpack-cli": "^4.9.1"
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.5.0"
   },
   "dependencies": {
     "abab": "^2.0.5",
