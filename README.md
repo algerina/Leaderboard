@@ -4,7 +4,7 @@
 
 > This is a Leaderboard list app, setup using webpack and ES6 modules.
 
-![screenshot](./screen.JPG)
+![screenshot](./screen2.JPG)
 
 
 ## Built With

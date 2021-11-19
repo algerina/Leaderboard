@@ -1,11 +1,30 @@
 body {
-  background-color: azure;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  background: url(chess1.jpg);
+  background-size: 87rem;
 }
 
 .wrapper {
   display: flex;
   justify-content: center;
+  margin: 50px;
+  background-color: #ffffff;
+  border: 5px solid grey;
+  border-style: ridge;
+  opacity: 0.6;
+  border-radius: 15px;
+}
+
+.item {
+  border: 1px solid grey;
+  margin: 1px;
+
+}
+.wrapper p {
+  margin: 15%;
+  font-weight: bold;
+  color: #000000;
 }
 
 #scoreSection {
@@ -23,18 +42,33 @@ body {
 
 h2 {
   margin: 1rem;
+  color: red;
 }
 
 #scoresTable {
-  border: solid black 1px;
   list-style: none;
 }
 
 .refresh {
-  height: 1.5rem;
+  height: 0.5rem;
   margin: 1.5rem;
 }
 
 h1 {
   text-align: center;
+  color: red;
+}
+
+button {
+
+  border-radius: 5px;
+  height: 25px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  /* background-color: rgb(66, 60, 60);
+  color: black */
+  opacity: 1;
 }
