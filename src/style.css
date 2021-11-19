@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: center;
   margin: 50px;
-  background-color: #ffffff;
+  background-color: #fff;
   border: 5px solid grey;
   border-style: ridge;
   opacity: 0.6;
@@ -19,12 +19,12 @@ body {
 .item {
   border: 1px solid grey;
   margin: 1px;
-
 }
+
 .wrapper p {
   margin: 15%;
   font-weight: bold;
-  color: #000000;
+  color: #000;
 }
 
 #scoreSection {
@@ -60,7 +60,6 @@ h1 {
 }
 
 button {
-
   border-radius: 5px;
   height: 25px;
   cursor: pointer;
