@@ -68,7 +68,7 @@ CSS linters
 👤 **Amel Khiri**
 
 - GitHub: [@Algerina](https://github.com/Algerina)
-- LinkedIn: [Amel Khiri](https://linkedin.com/in/amel-khiri-qahwadji-37a550135)
+- LinkedIn: [Amel Khiri](https://linkedin.com/in/amel-khiri)
 
 
 ## 🤝 Contributing
